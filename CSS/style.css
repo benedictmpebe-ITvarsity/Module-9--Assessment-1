@@ -1,5 +1,5 @@
 body{
-    background-color: #009788;
+    background-color: skyblue;
     font-family: "Raleway", sans-serif;
     text-align: center;
 }
@@ -10,7 +10,7 @@ body{
 
 p{
     color: white;
-    font-size: 10vw;
+    font-size: 2vw;
 }
 
 #clock{
